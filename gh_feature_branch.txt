@@ -1,0 +1,17 @@
+Here's a typical workflow:
+
+1. Fork the repository: Create a copy of the original repository in your own GitHub account.   
+
+2. Clone your fork: Download your forked repository to your local machine.
+
+3 Create a feature branch: Use the command git checkout -b <feature_branch_name> to create a new branch and switch to it. Choose a descriptive name for your branch (e.g., feature/add-new-button, fix/login-bug).
+
+4. Make your changes: Implement your feature, committing your changes regularly with clear commit messages.
+
+5. Push your branch: Upload your feature branch to your forked repository on GitHub using git push origin <feature_branch_name>.
+
+6. Create a pull request: On GitHub, create a pull request from your feature branch to the main branch of the original repository.  
+
+7. Code review and merge: Your pull request will be reviewed, and if approved, it will be merged into the main branch.  
+
+By following this workflow, you ensure a clean and organized contribution process, making it easier for maintainers to review and integrate your changes. 
